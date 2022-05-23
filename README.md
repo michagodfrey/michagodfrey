@@ -6,7 +6,7 @@
 
 ## 👀 What can I do?
 
-- I use HTML, CSS, SASS, JavaScript and React to build the front end of web pages. 
+- I use HTML, CSS, sass/scss, JavaScript and React to build the front end of web pages. 
 
 ## 🌱 What am I learning?
 
