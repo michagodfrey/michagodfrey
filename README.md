@@ -9,8 +9,9 @@ Web developer and designer
 *   ✉️  You can contact me at [m.godfrey59@gmail.com](mailto:m.godfrey59@gmail.com)
 *   🧠  I'm learning backend development
 
-### Skills
 
+
+### Skills
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -34,10 +35,68 @@ Web developer and designer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/michagodfrey">
-  <img src="https://github-readme-stats.vercel.app/api?username=michagodfrey&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="michagodfrey's GitHub stats" />
-</a>
+<table>
+  <tr>
+    <td>
+    <a href="http://www.github.com/michagodfrey">
+      <img src="https://github-readme-stats.vercel.app/api?username=michagodfrey&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="michagodfrey's GitHub stats" />
+    </a>
+    </td>
+    <td>
+    <a href="http://www.github.com/michagodfrey">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=michagodfrey&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+    </a>
+    </td>
+  </tr>
+</table>
 
-<a href="http://www.github.com/michagodfrey">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=michagodfrey&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
+### Selected Work
+
+<b>Check out some of the things I've been working on</b>
+
+<table>
+<tr>
+<td>
+<h3 align="center">To the Moon Crypto Tracker</h3>
+  <a href="https://mooncryptotracker.firebaseapp.com/">
+    <img src="https://github.com/michagodfrey/michagodfrey.github.io/blob/master/images/crypto-tracker.png?raw=true" alt="cryto tracker app" />
+  </a>
+  <a href="https://github.com/michagodfrey/crypto-tracker">View repository</a>
+</td>
+
+<td>
+<h3 align="center">Guess that Phrase - Animal Idioms</h3>
+  <a href="https://michagodfrey.github.io/phrase-guessing-game/">
+    <img src="https://github.com/michagodfrey/michagodfrey.github.io/blob/master/images/phrase-api.png?raw=true" alt="cryto tracker app" width="90%"/>
+  </a>
+  <a href="https://github.com/michagodfrey/phrase-guessing-game">Frontend repository</a> /
+  <a href="https://github.com/michagodfrey/phrase-api-firebase">API repository</a>
+</td>
+</tr>
+</table>
+
+### Frontend Mentor Challenges
+
+<b>Check out some Frontend Mentor challenges I've completed</b>
+
+<table>
+<tr>
+<td>
+<h3 align="center">Jobs Listing With Filtering</h3>
+  <a href="https://michagodfrey.github.io/job-listings/">
+    <img src="https://github.com/michagodfrey/michagodfrey.github.io/blob/master/images/jobs-listing1.jpg?raw=true" alt="jobs listing" />
+  </a>
+  <a href="https://github.com/michagodfrey/job-listings/tree/main">View repository</a> /
+  <a href="https://www.frontendmentor.io/solutions/jobs-listing-with-filtering-built-with-react-LMccYL0ca">View Solution</a>
+</td>
+
+<td>
+<h3 align="center">Space Tourism</h3>
+  <a href="https://michagodfrey.github.io/space/">
+    <img src="https://github.com/michagodfrey/michagodfrey.github.io/blob/master/images/space.jpg?raw=true" alt="space tourism" />
+  </a>
+  <a href="https://github.com/michagodfrey/space">View repository</a> /
+  <a href="https://www.frontendmentor.io/solutions/space-tourism-website-built-with-react-and-sassscss-sijuaf2q55">View Solution</a>
+</td>
+</tr>
+</table>
