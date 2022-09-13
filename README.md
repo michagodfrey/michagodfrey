@@ -7,7 +7,8 @@ Web developer and designer
 *   🌍  I'm based in Australia and Fiji
 *   🖥️  See my portfolio at [my project showcase](http://michagodfrey.github.io/)
 *   ✉️  You can contact me at [m.godfrey59@gmail.com](mailto:m.godfrey59@gmail.com)
-*   🧠  I'm learning backend development
+*   🎓 I have a frontend web development [TechDegree](https://drive.google.com/file/d/1R1SfXJTaitwMBe0FAQgPIJAThU6KBhVs/view?usp=sharing) from Treehouse
+*   🧠  I'm always learning something new and practising what I know. 
 
 
 
