@@ -10,7 +10,8 @@ Web developer and designer
 *   🎓 I have a frontend web development [TechDegree](https://drive.google.com/file/d/1R1SfXJTaitwMBe0FAQgPIJAThU6KBhVs/view?usp=sharing) from Treehouse
 *   🧠  I'm always learning something new and practising what I know. 
 
-
+<a href="https://www.twitter.com/Michael07865192" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Michael07865192?logo=twitter&style=for-the-badge&color=facc15&labelColor=581c87"/></a>
+<a href="https://www.github.com/michagodfrey" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/michagodfrey?logo=github&style=for-the-badge&color=facc15&labelColor=581c87" /></a>
 
 ### Skills
 <p align="left">
@@ -35,18 +36,12 @@ Web developer and designer
 ### Badges
 
 <b>My GitHub Stats</b>
-
 <table>
   <tr>
     <td>
-    <a href="http://www.github.com/michagodfrey">
-      <img src="https://github-readme-stats.vercel.app/api?username=michagodfrey&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="michagodfrey's GitHub stats" />
-    </a>
-    </td>
+    	<a href="http://www.github.com/michagodfrey"><img src="https://github-readme-stats.vercel.app/api?username=michagodfrey&show_icons=true&hide=issues,&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=581c87&hide_border=true&show_icons=true" alt="michagodfrey's GitHub stats" /></a>
     <td>
-    <a href="http://www.github.com/michagodfrey">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=michagodfrey&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-    </a>
+    	<a href="http://www.github.com/michagodfrey"><img src="https://github-readme-streak-stats.herokuapp.com/?user=michagodfrey&stroke=ffffff&background=581c87&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
     </td>
   </tr>
 </table>
