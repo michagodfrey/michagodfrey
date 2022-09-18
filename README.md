@@ -63,7 +63,7 @@ Web developer and designer
 <td>
 <h3 align="center">Guess that Phrase - Animal Idioms</h3>
   <a href="https://michagodfrey.github.io/phrase-guessing-game/">
-    <img src="https://github.com/michagodfrey/michagodfrey.github.io/blob/master/images/phrase-api.png?raw=true" alt="cryto tracker app" width="90%"/>
+    <img src="https://raw.githubusercontent.com/michagodfrey/phrase-guessing-game/master/images/screenshot-play.png?raw=true" alt="phrase game" width="90%"/>
   </a>
   <a href="https://github.com/michagodfrey/phrase-guessing-game">Frontend repository</a> /
   <a href="https://github.com/michagodfrey/phrase-api-firebase">API repository</a>
