@@ -8,7 +8,7 @@ Web developer and designer
 *   🖥️  See my portfolio at [my project showcase](http://michagodfrey.github.io/)
 *   ✉️  You can contact me at [m.godfrey59@gmail.com](mailto:m.godfrey59@gmail.com)
 *   🎓 I have a frontend web development [TechDegree](https://drive.google.com/file/d/1R1SfXJTaitwMBe0FAQgPIJAThU6KBhVs/view?usp=sharing) from Treehouse
-*   🧠  I'm always learning something new and practising what I know. 
+*   🧠  I'm always learning something new and practising what I know.
 
 <a href="https://www.twitter.com/Michael07865192" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Michael07865192?logo=twitter&style=for-the-badge&color=facc15&labelColor=581c87"/></a>
 <a href="https://www.github.com/michagodfrey" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/michagodfrey?logo=github&style=for-the-badge&color=facc15&labelColor=581c87" /></a>
@@ -87,12 +87,12 @@ Web developer and designer
 </td>
 
 <td>
-<h3 align="center">Space Tourism</h3>
-  <a href="https://michagodfrey.github.io/space/">
-    <img src="https://github.com/michagodfrey/michagodfrey.github.io/blob/master/images/space.jpg?raw=true" alt="space tourism" />
+<h3 align="center">Countries API</h3>
+  <a href="https://where-in-the-world-65701.firebaseapp.com/">
+    <img src="https://github.com/michagodfrey/countries/blob/main/public/screenshot-country.png?raw=true" alt="countries rest api" />
   </a>
-  <a href="https://github.com/michagodfrey/space">View repository</a> /
-  <a href="https://www.frontendmentor.io/solutions/space-tourism-website-built-with-react-and-sassscss-sijuaf2q55">View Solution</a>
+  <a href="https://github.com/michagodfrey/countries">View repository</a> /
+  <a href="https://www.frontendmentor.io/solutions/where-in-the-world-rest-countries-api-with-react-and-sass-UAvhXazqy8">View Solution</a>
 </td>
 </tr>
 </table>
