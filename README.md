@@ -4,11 +4,12 @@ Hi 👋 My name is Michael Godfrey
 Web developer and designer
 --------------------------
 
-*   🌍  I'm based in Australia and Fiji
-*   🖥️  See my portfolio at [my project showcase](http://michagodfrey.github.io/)
-*   ✉️  You can contact me at [m.godfrey59@gmail.com](mailto:m.godfrey59@gmail.com)
+*   :earth_asia: I currently live in Fiji
+*   🖥️  See my [web development service](https://michael-godfrey.com/)
+*   :briefcase: See my [my project showcase](https://michagodfrey.github.io/)
+*   ✉️  You can contact me at [mail@michael-godfrey.com](mailto:mail@michael-godfrey.com)
 *   🎓 I have a frontend web development [TechDegree](https://drive.google.com/file/d/1R1SfXJTaitwMBe0FAQgPIJAThU6KBhVs/view?usp=sharing) from Treehouse
-*   🧠  I'm always learning something new and practising what I know.
+*   🧠  I'm currently learning JavaScript and computer networking.
 
 <a href="https://www.twitter.com/Michael07865192" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Michael07865192?logo=twitter&style=for-the-badge&color=facc15&labelColor=581c87"/></a>
 <a href="https://www.github.com/michagodfrey" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/michagodfrey?logo=github&style=for-the-badge&color=facc15&labelColor=581c87" /></a>
@@ -55,7 +56,7 @@ Web developer and designer
 <td>
 <h3 align="center">To the Moon Crypto Tracker</h3>
   <a href="https://mooncryptotracker.firebaseapp.com/">
-    <img src="https://github.com/michagodfrey/michagodfrey.github.io/blob/master/images/crypto-tracker.png?raw=true" alt="cryto tracker app" />
+    <img src="https://github.com/michagodfrey/michagodfrey.github.io/blob/master/images/crypto-tracker.webp?raw=true" alt="cryto tracker app" />
   </a>
   <a href="https://github.com/michagodfrey/crypto-tracker">View repository</a>
 </td>
@@ -80,7 +81,7 @@ Web developer and designer
 <td>
 <h3 align="center">Jobs Listing With Filtering</h3>
   <a href="https://michagodfrey.github.io/job-listings/">
-    <img src="https://github.com/michagodfrey/michagodfrey.github.io/blob/master/images/jobs-listing1.jpg?raw=true" alt="jobs listing" />
+    <img src="https://github.com/michagodfrey/michagodfrey.github.io/blob/master/images/jobs-listing.webp?raw=true" alt="jobs listing" />
   </a>
   <a href="https://github.com/michagodfrey/job-listings/tree/main">View repository</a> /
   <a href="https://www.frontendmentor.io/solutions/jobs-listing-with-filtering-built-with-react-LMccYL0ca">View Solution</a>
