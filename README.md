@@ -8,9 +8,9 @@ Web developer and designer
 *   🖥️  See my [web development service](https://michael-godfrey.com/)
 *   :briefcase: See my [my project showcase](https://michagodfrey.github.io/)
 *   ✉️  You can contact me at [mail@michael-godfrey.com](mailto:mail@michael-godfrey.com)
-*   🎓 I have a certificate in JavaScript Algorithms and Data Structures from [freeCodeCamp](https://www.freecodecamp.org/certification/fcc751d8781-29d1-483c-a21c-56f4aa5c0727/javascript-algorithms-and-data-structures)
+*   🎓 I have a certificate in [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/fcc751d8781-29d1-483c-a21c-56f4aa5c0727/javascript-algorithms-and-data-structures) from freeCodeCamp
 *   🎓 I have a frontend web development [TechDegree](https://drive.google.com/file/d/1R1SfXJTaitwMBe0FAQgPIJAThU6KBhVs/view?usp=sharing) from Treehouse
-*   🧠  I'm currently learning back-end and computer networking.
+*   🧠  I'm currently learning back-end and computer networking
 
 <a href="https://www.twitter.com/Michael07865192" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Michael07865192?logo=twitter&style=for-the-badge&color=facc15&labelColor=581c87"/></a>
 <a href="https://www.github.com/michagodfrey" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/michagodfrey?logo=github&style=for-the-badge&color=facc15&labelColor=581c87" /></a>
