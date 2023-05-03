@@ -58,7 +58,7 @@ I'm Michael. I'm a web developer and self taught coder.
 <td>
 <h3 align="center">Space Tourism</h3>
   <a href="https://michagodfrey.github.io/space/">
-    <img src="https://github.com/michagodfrey/michagodfrey.github.io/blob/master/images/space.jpg?raw=true" alt="space tourism" />
+    <img src="https://github.com/michagodfrey/space/raw/main/screenshots/home-screen-desktop.png" alt="space tourism" />
   </a>
   <a href="https://github.com/michagodfrey/space">View repository</a> /
   <a href="https://www.frontendmentor.io/solutions/space-tourism-website-built-with-react-and-sassscss-sijuaf2q55">View Solution</a>
